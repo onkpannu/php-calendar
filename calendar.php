@@ -1,4 +1,8 @@
 <?php
+// Simple PHP script to display calendar
+// By : Onkar Singh 
+// Date created : Jan 10 2019
+
 
 $show_week_names="";
 $the_year ="2019";
